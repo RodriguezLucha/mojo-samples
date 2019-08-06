@@ -1,4 +1,5 @@
 #!/usr/bin/env perl
+# https://github.com/mojolicious/mojo/wiki/Writing-websocket-chat-using-Mojolicious-Lite
 use utf8;
 use Mojolicious::Lite;
 use DateTime;
